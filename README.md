@@ -1,9 +1,8 @@
 
-![Profile](https://github.com/Sruthi-Suresh22/Sruthi-Suresh22/assets/162356465/9e360de8-5dda-41c3-a9bd-f047876cc1b2)
 
 Hi there :wave: 
 
-I'm Sruthi Suresh, an aspiring and passionate Data Analyst building skills in Excel, SQL, Power BI, Tableau, Python and R.
+I'm Sruthi Suresh, a Data Management & Analytics enthusiast building skills in Excel, SQL, Power BI, Tableau, Python and R.
 
 - Excel : Generates dashboards, reports and performs data analysis using MS Excel.
 - SQL : Acquiring proficiency in quering and manipulating data with SQL.
